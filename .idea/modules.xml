@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuthServer/AuthServer.iml" filepath="$PROJECT_DIR$/AuthServer/AuthServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTClient/RESTClient.iml" filepath="$PROJECT_DIR$/RESTClient/RESTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RESTServer/RESTServer.iml" filepath="$PROJECT_DIR$/RESTServer/RESTServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_REST_OAuth.iml" filepath="$PROJECT_DIR$/Spring_REST_OAuth.iml" />
+    </modules>
+  </component>
+</project>
